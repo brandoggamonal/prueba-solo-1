@@ -4,3 +4,5 @@ aca estoy contando una historia alternativa a la que veran en la linea  real.
 aca usare el big data para analizar el comportamiento humano
 
 ademas aca vere que pasa si no guardo al cambiar de commit
+bueno ya vi que si¿ucede si se cambia de commit sin haberlo guardado,
+(un problema innecesario de tener)
