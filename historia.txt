@@ -1,7 +1,4 @@
 esta es la historia que estoy contando
 
-ademas ahora escribire mas para poder seguir practicando
-
-y esta es la 3era para empezar a escribir y seguri practicando lo de las ramas
-
-esto es lo utlimo, a paratir de ahora hare el ultimo commit para practicar con ramas
+aca estoy contando una historia alternativa a la que veran en la linea  real.
+aca usare el big data para analizar el comportamiento humano
